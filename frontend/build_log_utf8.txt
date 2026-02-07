@@ -1,0 +1,112 @@
+﻿
+> bds-agent-frontend@1.0.0 build
+> next build
+
+  Γû▓ Next.js 14.2.3
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/8) ...
+   Generating static pages (2/8) 
+   Generating static pages (4/8) 
+   Generating static pages (6/8) 
+node.exe :  Γ¿» 
+useSearchParams() 
+should be wrapped in 
+a suspense boundary 
+at page "/analytics". 
+Read more: https://nex
+tjs.org/docs/messages/
+missing-suspense-with-
+csr-bailout
+At line:1 char:1
++ & "C:\Program Files\
+nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: ( Γ¿» useSe   
+ archP...ith-csr-b    
+ailout:String) []    
+, RemoteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+    at a (D:\agent-bds
+\frontend\.next\server
+\chunks\363.js:26:1055
+6)
+    at c (D:\agent-bds
+\frontend\.next\server
+\chunks\363.js:26:2155
+3)
+    at yL (D:\agent-bd
+s\frontend\.next\serve
+r\app\analytics\page.j
+s:24:368574)
+    at nj (D:\agent-bd
+s\frontend\node_module
+s\next\dist\compiled\n
+ext-server\app-page.ru
+ntime.prod.js:12:46251
+)
+    at nM (D:\agent-bd
+s\frontend\node_module
+s\next\dist\compiled\n
+ext-server\app-page.ru
+ntime.prod.js:12:47571
+)
+    at nN (D:\agent-bd
+s\frontend\node_module
+s\next\dist\compiled\n
+ext-server\app-page.ru
+ntime.prod.js:12:64546
+)
+    at nI (D:\agent-bd
+s\frontend\node_module
+s\next\dist\compiled\n
+ext-server\app-page.ru
+ntime.prod.js:12:47010
+)
+    at nM (D:\agent-bd
+s\frontend\node_module
+s\next\dist\compiled\n
+ext-server\app-page.ru
+ntime.prod.js:12:47717
+)
+    at nM (D:\agent-bd
+s\frontend\node_module
+s\next\dist\compiled\n
+ext-server\app-page.ru
+ntime.prod.js:12:61546
+)
+    at nN (D:\agent-bd
+s\frontend\node_module
+s\next\dist\compiled\n
+ext-server\app-page.ru
+ntime.prod.js:12:64546
+)
+
+Error occurred 
+prerendering page 
+"/analytics". Read 
+more: https://nextjs.o
+rg/docs/messages/prere
+nder-error
+
+ Γ£ô Generating static pages (8/8)
+
+> Export encountered 
+errors on following 
+paths:
+	/analytics/page: 
+/analytics

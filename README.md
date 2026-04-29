@@ -149,7 +149,5 @@ npm run dev
 3.  **Lỗi kết nối database (WinError 1225)?**
     *   PostgreSQL đang bị tắt hoặc cổng 5432 bị chiếm.
 
----
 
-**Phát triển bởi**: NHÓM 5 - VSMAC 
 
